@@ -1,7 +1,7 @@
 {
   "name": "midicn · Genres",
   "short_name": "Genres",
-  "description": "【批次 M5】中国内容为 0（除 1 条汇聚入口），全部归 cn 站。",
+  "description": "Genres and styles — jazz, rock, classical, electronic and world music — each explained through its sound, its history and representative tracks.",
   "start_url": "../en/",
   "scope": "./",
   "display": "standalone",
